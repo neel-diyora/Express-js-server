@@ -1,1 +1,1 @@
-this is simple backed server with express js.
+this is simple backend server with express js.
